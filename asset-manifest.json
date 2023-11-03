@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Search-and-Checkboxes/static/css/main.ad792244.css",
+    "main.js": "/Search-and-Checkboxes/static/js/main.fec8cf2a.js",
+    "static/js/787.d30148e9.chunk.js": "/Search-and-Checkboxes/static/js/787.d30148e9.chunk.js",
+    "index.html": "/Search-and-Checkboxes/index.html",
+    "main.ad792244.css.map": "/Search-and-Checkboxes/static/css/main.ad792244.css.map",
+    "main.fec8cf2a.js.map": "/Search-and-Checkboxes/static/js/main.fec8cf2a.js.map",
+    "787.d30148e9.chunk.js.map": "/Search-and-Checkboxes/static/js/787.d30148e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad792244.css",
+    "static/js/main.fec8cf2a.js"
+  ]
+}
